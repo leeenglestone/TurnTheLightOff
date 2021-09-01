@@ -9985,6 +9985,7 @@ header.py-5 { padding-top:0 !important; }
 
   .m-lg-5 {
     margin: 3rem !important;
+	margin-top:0px;
   }
 
   .m-lg-auto {
