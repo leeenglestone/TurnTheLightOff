@@ -543,7 +543,7 @@ progress {
 }
 @media (min-width: 1200px) {
   .display-5 {
-    font-size: 3rem;
+    font-size: 5rem;
   }
 }
 
@@ -10348,6 +10348,7 @@ header.py-5 { padding-top:0 !important; }
 
   .p-lg-5 {
     padding: 3rem !important;
+	padding-top:0 !important;
   }
 
   .px-lg-0 {
